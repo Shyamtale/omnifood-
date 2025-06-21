@@ -1,4 +1,4 @@
-![Screenshot 2025-06-21 075935](https://github.com/user-attachments/assets/45eb2870-9e96-49fb-9837-86cc56a583d5)## Omnifood project
+## Omnifood project
 
 A visually captivating static food website built with HTML & CSS, designed to showcase delicious dishes, menu highlights, and public review with feedback form.
 
