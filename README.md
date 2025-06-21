@@ -9,3 +9,6 @@ A visually captivating static food website built with HTML & CSS, designed to sh
 
 ## description
 This is static website that built with a html and css , designed to showcase delicios dishes, menu highlights, testimonials, pricing plans and customner contact and it is similar to the marketing landing pages. Sections flow naturally—from "how it works " and "meals" to "testimonials", "pricing" and "contacts"—mirroring  just like commercial brochure-style food sites.
+
+## website 
+
