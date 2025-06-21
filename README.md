@@ -12,10 +12,9 @@ This is static website that built with a html and css , designed to showcase del
 
 ## Website 
 
-![Uploading Screenshot 2025-06-21 075755.png…]()![Uploading Sc![Uploading Screenshot 2025-06-21 080035.png…]()
-reenshot 2025-06-21 075935.png…]()![Uploading Screenshot 2025-06-21 080149.png…]()![Screenshot 2025-06-21 080246](https://github.com/user-attachments/assets/24f1e7cb-a955-42fc-8b80-094d5a2ba757)![Uploading Screenshot 2025-06-21 080332.png…]()
-![Uploading Screenshot 2025-06-21 080419.png…]()
 
 
 
 
+
+![Screenshot 2025-06-21 075755](https://github.com/user-attachments/assets/8d272acb-ed28-4202-8040-23108ce1f9da)
