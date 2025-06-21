@@ -17,4 +17,7 @@ This is static website that built with a html and css , designed to showcase del
 
 
 
-![Screenshot 2025-06-21 075755](https://github.com/user-attachments/assets/8d272acb-ed28-4202-8040-23108ce1f9da)
+
+![WhatsApp Image 2025-06-21 at 08 36 20_35286672](https://github.com/user-attachments/assets/29e212db-7e67-478b-9d82-c75d2800d3ea)
+
+![WhatsApp Image 2025-06-21 at 08 36 20_1ed432e0](https://github.com/user-attachments/assets/8016ec99-1d2e-4b7c-bd16-b2b7d4212473)
